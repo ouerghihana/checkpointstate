@@ -1,0 +1,23 @@
+
+/* Set background color of the card to dark and text color to white */
+.bg-dark {
+  background-color: #d6d6d6;
+  color: #0a0808;
+}
+
+
+
+
+
+/* Style the button */
+Button {
+  margin-top: 3rem;
+}
+
+/* Style the image */
+.photo1 {
+ 
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
